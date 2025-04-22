@@ -4,22 +4,22 @@
 
 ## 🚀 Projects & Skills Highlight
 
-🔧 [AWS-WorkSpace-Setup-Simulation-for-Remote-Help-Desk](https://github.com/C-Stallings/AWS-WorkSpace-Setup-Simulation-for-Remote-Help-Desk)  
+🔧 [AWS WorkSpace Setup Simulation for Remote Help-Desk](https://github.com/C-Stallings/AWS-WorkSpace-Setup-Simulation-for-Remote-Help-Desk)  
   Simulated a real-world AWS WorkSpace deployment to showcase remote IT support capabilities and AWS administrative skills.
 
-🌐 [Cisco_Config_Wireless_Network](https://github.com/C-Stallings/Cisco_Config_Wireless_Network)  
+🌐 [Cisco Config Wireless Network](https://github.com/C-Stallings/Cisco_Config_Wireless_Network)  
   Demonstrated proficiency in configuring Cisco access points, showcasing network design and wireless setup knowledge.
 
-📡 [Cisco_Config_Wireless_Router_Clients](https://github.com/C-Stallings/Cisco_Config_Wireless_Router_Clients)  
+📡 [Cisco Config Wireless Router Clients](https://github.com/C-Stallings/Cisco_Config_Wireless_Router_Clients)  
   Configured Cisco wireless routers with multiple clients to simulate a secure and functional wireless network environment.
 
-🔍 [Sentinel_SIEM_Lab](https://github.com/C-Stallings/Sentinel_SIEM_Lab)  
+🔍 [Sentinel SIEM Lab](https://github.com/C-Stallings/Sentinel_SIEM_Lab)  
   Built a Microsoft Sentinel lab environment to practice log analytics, rule creation, and threat detection using SIEM tools.
 
-🛡️ [Python_Cryptography_Cipher_Project](https://github.com/C-Stallings/Python_Cryptography_Cipher_Project)  
+🛡️ [Python Cryptography Cipher Project](https://github.com/C-Stallings/Python_Cryptography_Cipher_Project)  
   Developed Python-based encryption ciphers to understand core cryptographic principles and secure data handling.
 
-🔐 [Python_Password_Manager_Project](https://github.com/C-Stallings/Python_Password_Manager_Project)  
+🔐 [Python Password Manager Project](https://github.com/C-Stallings/Python_Password_Manager_Project)  
   Created a functional password manager using Python and cryptography libraries to emphasize secure credential storage.
 
 
