@@ -4,6 +4,9 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 # 🚀 Projects & Skills Highlight:
 
+🚆 [Train Equipment Diagnostics Simulator](https://github.com/C-Stallings/Train-Equipment-Diagnostics-Simulator)  
+Simulated a real-world serverless workflow to detect anomalies in train sensor logs using AWS Lambda, S3, and CloudWatch—demonstrating diagnostic support tasks similar to those of a Service Engineer.
+
 🔧 [AWS WorkSpace Setup Simulation for Remote Help-Desk](https://github.com/C-Stallings/AWS-WorkSpace-Setup-Simulation-for-Remote-Help-Desk)  
   Simulated a real-world AWS WorkSpace deployment to showcase remote IT support capabilities and AWS administrative skills.
 
