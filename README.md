@@ -4,6 +4,8 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 # 🚀 Projects & Skills Highlight:
 
+## AWS Cloud
+
 - [Identity and Access Management (IAM) User Lifecycle](https://github.com/C-Stallings/AWS-IAM-User-Lifecycle)  
 Demostrated IT support tasks using AWS IAM, including user onboarding, password resets, MFA setup, and secure offboarding.
 
@@ -13,14 +15,20 @@ Simulated a real-world serverless workflow to detect anomalies in train sensor l
 - [AWS WorkSpace Setup Simulation for Remote Help-Desk](https://github.com/C-Stallings/AWS-WorkSpace-Setup-Simulation-for-Remote-Help-Desk)  
   Simulated a real-world AWS WorkSpace deployment to showcase remote IT support capabilities and AWS administrative skills.
 
+## Cisco Networking
+
 - [Cisco Config Wireless Network](https://github.com/C-Stallings/Cisco_Config_Wireless_Network)  
   Demonstrated proficiency in configuring Cisco access points, showcasing network design and wireless setup knowledge.
 
 - [Cisco Config Wireless Router Clients](https://github.com/C-Stallings/Cisco_Config_Wireless_Router_Clients)  
   Configured Cisco wireless routers with multiple clients to simulate a secure and functional wireless network environment.
 
+## Microsoft Cloud
+
 - [Sentinel SIEM Lab](https://github.com/C-Stallings/Sentinel_SIEM_Lab)  
   Built a Microsoft Sentinel lab environment to practice log analytics, rule creation, and threat detection using SIEM tools.
+
+## Python Coding
 
 - [Python Cryptography Cipher Project](https://github.com/C-Stallings/Python_Cryptography_Cipher_Project)  
   Developed Python-based encryption ciphers to understand core cryptographic principles and secure data handling.
