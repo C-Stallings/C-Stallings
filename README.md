@@ -6,6 +6,9 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 ## AWS Cloud
 
+- [Cloud Help Desk Lab: Active Directory + Support Tasks](https://github.com/C-Stallings/Help-Desk-Simulation-Lab)  
+This project demostrates a small business Active Directory environment and provided hands-on experience with user, group, and OU management, as well as resolving common help desk tasks using Windows Server and PowerShell. It focused on configuring a domain controller, applying security policies, and streamlining IT support workflows.
+
 - [Identity and Access Management (IAM) User Lifecycle](https://github.com/C-Stallings/AWS-IAM-User-Lifecycle)  
 Demostrated IT support tasks using AWS IAM, including user onboarding, password resets, MFA setup, and secure offboarding.
 
