@@ -6,6 +6,9 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 ## AWS Cloud
 
+- [Secure AWS CI/CD Pipeline with RMF Controls](https://github.com/C-Stallings/secure-cicd-aws)  
+A secure serverless microservice using AWS Lambda, API Gateway, and GitHub Actions to simulate a FedRAMP/FISMA-compliant environment. Highlights include IAM least privilege, S3 encryption, CloudTrail logging, and mock RMF/NIST 800-53 documentation to showcase cloud security engineering skills for federal and defense roles.
+
 - [Cloud Help Desk Lab: Active Directory + Support Tasks](https://github.com/C-Stallings/Help-Desk-Simulation-Lab)  
 This project demostrates a small business Active Directory environment and provided hands-on experience with user, group, and OU management, as well as resolving common help desk tasks using Windows Server and PowerShell. It focused on configuring a domain controller, applying security policies, and streamlining IT support workflows.
 
