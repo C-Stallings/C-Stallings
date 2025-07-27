@@ -4,6 +4,7 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 # 🚀 Projects & Skills Highlight:
 
+
 ## AWS Cloud
 
 ### Cloud Security & Compliance
@@ -44,26 +45,44 @@ Simulated a real-world diagnostics workflow to detect anomalies in train sensor 
   **Skills**: CloudWatch · Serverless Monitoring · Lambda · S3 · Diagnostic Automation
 
 
-## Cisco Networking
+---
 
-- [Cisco Config Wireless Network](https://github.com/C-Stallings/Cisco_Config_Wireless_Network)  
-  Demonstrated proficiency in configuring Cisco access points, showcasing network design and wireless setup knowledge.
 
-- [Cisco Config Wireless Router Clients](https://github.com/C-Stallings/Cisco_Config_Wireless_Router_Clients)  
-  Configured Cisco wireless routers with multiple clients to simulate a secure and functional wireless network environment.
-
-## Microsoft Cloud
+## Cybersecurity & Threat Detection
 
 - [Sentinel SIEM Lab](https://github.com/C-Stallings/Sentinel_SIEM_Lab)  
   Built a Microsoft Sentinel lab environment to practice log analytics, rule creation, and threat detection using SIEM tools.
 
-## Python Coding
+   **Skills** Log Analytics · SIEM · Azure Security · Threat Detection
 
 - [Python Cryptography Cipher Project](https://github.com/C-Stallings/Python_Cryptography_Cipher_Project)  
   Developed Python-based encryption ciphers to understand core cryptographic principles and secure data handling.
 
+  **Skills** Cryptography · Secure Data Handling · Python Encryption
+
 - [Python Password Manager Project](https://github.com/C-Stallings/Python_Password_Manager_Project)  
   Created a functional password manager using Python and cryptography libraries to emphasize secure credential storage.
+
+  **Skills** Python · Data Protection · Credential Management
+
+
+---
+
+
+## Networking & Wireless Configuration
+
+- [Cisco Config Wireless Network](https://github.com/C-Stallings/Cisco_Config_Wireless_Network)  
+  Demonstrated proficiency in configuring Cisco access points, showcasing network design and wireless setup knowledge.
+
+  **Skills**: Cisco IOS · Network Design · Wireless Access Points
+
+- [Cisco Config Wireless Router Clients](https://github.com/C-Stallings/Cisco_Config_Wireless_Router_Clients)  
+  Configured Cisco wireless routers with multiple clients to simulate a secure and functional wireless network environment.
+
+  **Skills**: Router Configuration · Network Security · Client Connectivity
+
+
+---
 
 
 # 💻 Tech Stack:
