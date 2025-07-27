@@ -6,20 +6,43 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 ## AWS Cloud
 
+### Cloud Security & Compliance
+
 - [Secure AWS CI/CD Pipeline with RMF Controls](https://github.com/C-Stallings/secure-cicd-aws)  
-A secure serverless microservice using AWS Lambda, API Gateway, and GitHub Actions to simulate a FedRAMP/FISMA-compliant environment. Highlights include IAM least privilege, S3 encryption, CloudTrail logging, and mock RMF/NIST 800-53 documentation to showcase cloud security engineering skills for federal and defense roles.
+A secure serverless microservice using AWS Lambda, API Gateway, and GitHub Actions to simulate a FedRAMP/FISMA-compliant environment.
+
+
+  **Highlights**: IAM least privilege, S3 encryption, CloudTrail logging, and mock RMF/NIST 800-53 documentation.
+
+
+  **Skills**: DevSecOps · Compliance Automation · Serverless Framework · Cloud Audit Logging
+
+### IT Support & Infrastructure Operations
 
 - [Cloud Help Desk Lab: Active Directory + Support Tasks](https://github.com/C-Stallings/Help-Desk-Simulation-Lab)  
-This project demostrates a small business Active Directory environment and provided hands-on experience with user, group, and OU management, as well as resolving common help desk tasks using Windows Server and PowerShell. It focused on configuring a domain controller, applying security policies, and streamlining IT support workflows.
+Simulated a small business Active Directory environment using Windows Server and PowerShell. Managed users, groups, and OUs, applied security policies, and resolved common IT support tasks.
 
-- [Identity and Access Management (IAM) User Lifecycle](https://github.com/C-Stallings/AWS-IAM-User-Lifecycle)  
-Demostrated IT support tasks using AWS IAM, including user onboarding, password resets, MFA setup, and secure offboarding.
-
-- [Train Equipment Diagnostics Simulator](https://github.com/C-Stallings/AWS-Train-Equipment-Diagnostics-Simulator/tree/main)  
-Simulated a real-world serverless workflow to detect anomalies in train sensor logs using AWS Lambda, S3, and CloudWatch—demonstrating diagnostic support tasks similar to those of a Service Engineer.
+  **Skills**: Windows Server · Group Policy · PowerShell · ITIL Support Tasks
 
 - [AWS WorkSpace Setup Simulation for Remote Help-Desk](https://github.com/C-Stallings/AWS-WorkSpace-Setup-Simulation-for-Remote-Help-Desk)  
-  Simulated a real-world AWS WorkSpace deployment to showcase remote IT support capabilities and AWS administrative skills.
+Deployed and configured AWS WorkSpaces to simulate a remote IT support environment. Demonstrated AWS-based VDI (virtual desktop infrastructure) setup and administrative workflows.
+
+  **Skills**: AWS WorkSpaces · Remote Desktop Management · Cloud IT Support
+
+### Identity & Access Management
+
+- [Identity and Access Management (IAM) User Lifecycle](https://github.com/C-Stallings/AWS-IAM-User-Lifecycle)  
+Demonstrated IT support tasks using AWS IAM, including user onboarding, MFA setup, password resets, and secure offboarding.
+
+  **Skills**: IAM · User Lifecycle Management · Access Controls · Cloud Identity Security
+
+### Monitoring & Diagnostic Simulations
+
+- [Train Equipment Diagnostics Simulator](https://github.com/C-Stallings/AWS-Train-Equipment-Diagnostics-Simulator/tree/main)  
+Simulated a real-world diagnostics workflow to detect anomalies in train sensor logs using AWS Lambda, S3, and CloudWatch.
+
+  **Skills**: CloudWatch · Serverless Monitoring · Lambda · S3 · Diagnostic Automation
+
 
 ## Cisco Networking
 
