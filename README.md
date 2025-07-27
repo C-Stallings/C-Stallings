@@ -4,7 +4,6 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 # 🚀 Projects & Skills Highlight:
 
-
 ## AWS Cloud
 
 ### Cloud Security & Compliance
