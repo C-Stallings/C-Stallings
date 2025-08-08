@@ -4,7 +4,16 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 # 🚀 Projects & Skills Highlight:
 
-## AWS Cloud
+## Vulnerability Management Projects
+
+- [Vulnerability Management – DISA STIGs Remediation using Tenable](https://github.com/C-Stallings/Vulnerability-Management-STIGS/tree/main)  
+Performed vulnerability assessments using Tenable, applied targeted DISA STIGs remediations via PowerShell and Windows policy configurations, and validated results with follow-up scans showing significant risk reduction.
+
+  **Skills**: Vulnerability Management · DISA STIGs · Tenable Nessus · PowerShell · Windows Security Hardening
+
+---
+
+## AWS Cloud Services
 
 ### Cloud Security & Compliance
 
