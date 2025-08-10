@@ -6,6 +6,11 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 ## Vulnerability Management Projects
 
+- [Vulnerability Management Remediations – OpenSSL on Ubuntu 22.04 Linux](https://github.com/C-Stallings/Vulnerability-Management-Remediations)  
+Automated scripts and documented processes to detect, remediate, and verify critical OpenSSL vulnerabilities on Ubuntu 22.04 servers, ensuring compliance with Tenable Nessus scans.
+
+  **Skills**: Vulnerability Management · Linux Security Hardening · OpenSSL · Tenable Nessus · Ubuntu 22.04 · Shell Scripting · System Patching
+
 - [Vulnerability Management – DISA STIGs Remediation using Tenable](https://github.com/C-Stallings/Vulnerability-Management-STIGS/tree/main)  
 Performed vulnerability assessments using Tenable, applied targeted DISA STIGs remediations via PowerShell and Windows policy configurations, and validated results with follow-up scans showing significant risk reduction.
 
