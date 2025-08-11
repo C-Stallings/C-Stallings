@@ -50,13 +50,6 @@ Demonstrated IT support tasks using AWS IAM, including user onboarding, MFA setu
 
   **Skills**: IAM · User Lifecycle Management · Access Controls · Cloud Identity Security
 
-### Monitoring & Diagnostic Simulations
-
-- [Train Equipment Diagnostics Simulator](https://github.com/C-Stallings/AWS-Train-Equipment-Diagnostics-Simulator/tree/main)  
-Simulated a real-world diagnostics workflow to detect anomalies in train sensor logs using AWS Lambda, S3, and CloudWatch.
-
-  **Skills**: CloudWatch · Serverless Monitoring · Lambda · S3 · Diagnostic Automation
-
 
 ---
 
