@@ -18,6 +18,15 @@ Performed vulnerability assessments using Tenable, applied targeted DISA STIGs r
 
 ---
 
+## Threat Hunting Projects
+
+- [Threat Hunting Project – Device Exposed to the Internet](https://github.com/C-Stallings/Threat-Hunting/tree/main)  
+Device Exposure Investigation – Windows Server 2025: KQL-based threat hunting queries and documented analysis to detect, investigate, and mitigate brute-force attempts against an internet-facing Windows Server, ensuring no unauthorized access occurred.
+
+  **Skills**: Threat Hunting · KQL (Kusto Query Language) · Microsoft Sentinel · Incident Analysis · MITRE ATT&CK Mapping · Brute Force Detection · Remote Access Security · Windows Server 2025 · Network Security Monitoring
+
+---
+
 ## AWS Cloud Services
 
 ### Cloud Security & Compliance
