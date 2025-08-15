@@ -27,6 +27,15 @@ Device Exposure Investigation – Windows Server 2025: KQL-based threat hunting 
 
 ---
 
+## Incident Response | Security Operations
+
+- [Brute Force Attempt Detection with Microsoft Sentinel](https://github.com/C-Stallings/Incident-Response-Security-Operations)  
+Built and deployed a Microsoft Sentinel detection and response workflow to identify brute force login attempts on Azure VMs, investigate using NIST 800-61 guidelines, and implement network and policy controls to prevent recurrence.
+
+  **Skills**: Microsoft Sentinel · Microsoft Defender for Endpoint (MDE) · Azure Network Security Groups (NSG) · Log Analytics & KQL · Incident Response – NIST 800-61 · Brute Force Detection & Mitigation
+
+---
+
 ## AWS Cloud Services
 
 ### Cloud Security & Compliance
