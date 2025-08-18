@@ -4,7 +4,7 @@ I'm an adaptable and detail-oriented IT professional with a passion for solving 
 
 # 🚀 Projects & Skills Highlight:
 
-## Vulnerability Management | Linux Projects
+## Vulnerability Management | Linux 
 
 - [Vulnerability Management Remediations – OpenSSL on Ubuntu 22.04 Linux](https://github.com/C-Stallings/Vulnerability-Management-Remediations)  
 Automated scripts and documented processes to detect, remediate, and verify critical OpenSSL vulnerabilities on Ubuntu 22.04 servers, ensuring compliance with Tenable Nessus scans.
@@ -18,7 +18,7 @@ Performed vulnerability assessments using Tenable, applied targeted DISA STIGs r
 
 ---
 
-## Threat Hunting Projects
+## Threat Hunting 
 
 - [Threat Hunting Project – Device Exposed to the Internet](https://github.com/C-Stallings/Threat-Hunting/tree/main)  
 Device Exposure Investigation – Windows Server 2025: KQL-based threat hunting queries and documented analysis to detect, investigate, and mitigate brute-force attempts against an internet-facing Windows Server, ensuring no unauthorized access occurred.
