@@ -25,6 +25,11 @@ Device Exposure Investigation – Windows Server 2025: KQL-based threat hunting 
 
   **Skills**: Threat Hunting · KQL (Kusto Query Language) · Microsoft Sentinel · Incident Analysis · MITRE ATT&CK Mapping · Brute Force Detection · Remote Access Security · Windows Server 2025 · Network Security Monitoring
 
+- [Sentinel SIEM Lab](https://github.com/C-Stallings/Sentinel_SIEM_Lab)  
+  Built a Microsoft Sentinel lab environment to practice log analytics, rule creation, and threat detection using SIEM tools.
+
+   **Skills** Log Analytics · SIEM · Azure Security · Threat Detection
+
 ---
 
 ## Incident Response | Security Operations
@@ -67,27 +72,6 @@ Deployed and configured AWS WorkSpaces to simulate a remote IT support environme
 Demonstrated IT support tasks using AWS IAM, including user onboarding, MFA setup, password resets, and secure offboarding.
 
   **Skills**: IAM · User Lifecycle Management · Access Controls · Cloud Identity Security
-
-
----
-
-
-## Cybersecurity & Threat Detection
-
-- [Sentinel SIEM Lab](https://github.com/C-Stallings/Sentinel_SIEM_Lab)  
-  Built a Microsoft Sentinel lab environment to practice log analytics, rule creation, and threat detection using SIEM tools.
-
-   **Skills** Log Analytics · SIEM · Azure Security · Threat Detection
-
-- [Python Cryptography Cipher Project](https://github.com/C-Stallings/Python_Cryptography_Cipher_Project)  
-  Developed Python-based encryption ciphers to understand core cryptographic principles and secure data handling.
-
-  **Skills** Cryptography · Secure Data Handling · Python Encryption
-
-- [Python Password Manager Project](https://github.com/C-Stallings/Python_Password_Manager_Project)  
-  Created a functional password manager using Python and cryptography libraries to emphasize secure credential storage.
-
-  **Skills** Python · Data Protection · Credential Management
 
 
 ---
