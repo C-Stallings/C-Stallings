@@ -1,8 +1,8 @@
-# 💫 About Me:
-I'm an adaptable and detail-oriented IT professional with a passion for solving problems, supporting teams, and improving system reliability. I bring a unique blend of technical expertise and strong communication skills, gained from years of cross-functional work in IT support and digital operations.<br><br>🤝 Known for being a collaborative team player who can break down technical concepts for non-technical audiences.  <br>🎯 Skilled in managing competing priorities, staying calm under pressure, and approaching challenges with curiosity and persistence.  <br>📘 I'm committed to continuous growth; currently expanding my knowledge of AWS & Microsoft Azure cloud services, Linux system administration, and cybersecurity best practices.  <br>🛡️ Security+ certified and preparing for cloud certifications.<br><br>I’m excited to contribute to teams that value clarity, collaboration, and continuous improvement.<br>
+# About Me:
+I'm an adaptable and detail-oriented IT professional with a passion for solving problems, supporting teams, and improving system reliability. I bring a unique blend of technical expertise and strong communication skills, gained from years of cross-functional work in IT support and digital operations.<br><br> - Known for being a collaborative team player who can break down technical concepts for non-technical audiences.  <br> - Skilled in managing competing priorities, staying calm under pressure, and approaching challenges with curiosity and persistence.  <br> - I'm committed to continuous growth; currently expanding my knowledge of AWS & Microsoft Azure cloud services, Linux system administration, and cybersecurity best practices.  <br> - Security+ certified and preparing for cloud certifications.<br><br>I’m excited to contribute to teams that value clarity, collaboration, and continuous improvement.<br>
  
 
-# 🚀 Projects & Skills Highlight:
+# Projects & Skills Highlight:
 
 ## Vulnerability Management | Linux 
 
@@ -93,11 +93,11 @@ Demonstrated IT support tasks using AWS IAM, including user onboarding, MFA setu
 ---
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <!-- ## NOTE: Commented Out ![](https://nirzak-streak-stats.vercel.app/?user=C-Stallings&theme=catppuccin_mocha&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Stallings&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -105,7 +105,7 @@ Demonstrated IT support tasks using AWS IAM, including user onboarding, MFA setu
 ---
 [![](https://visitcount.itsvg.in/api?id=C-Stallings&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chardastallings/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
