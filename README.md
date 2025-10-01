@@ -1,5 +1,13 @@
 # About Me:
-I'm an adaptable and detail-oriented IT professional with a passion for solving problems, supporting teams, and improving system reliability. I bring a unique blend of technical expertise and strong communication skills, gained from years of cross-functional work in IT support and digital operations.<br><br> - Known for being a collaborative team player who can break down technical concepts for non-technical audiences.  <br> - Skilled in managing competing priorities, staying calm under pressure, and approaching challenges with curiosity and persistence.  <br> - I'm committed to continuous growth; currently expanding my knowledge of AWS & Microsoft Azure cloud services, Linux system administration, and cybersecurity best practices.  <br> - Security+ certified and preparing for cloud certifications.<br><br>I’m excited to contribute to teams that value clarity, collaboration, and continuous improvement.<br>
+I'm an adaptable and detail-oriented IT Security Professional with a passion for vulnerability management, risk analysis, and improving organizational security posture. I bring hands-on experience with Tenable Nessus vulnerability assessments, PowerShell automation, and federal compliance frameworks (DISA STIG, NIST 800-53), combined with strong technical communication skills from cross-functional IT work.
+
+- **Security Focus:** Experienced conducting vulnerability assessments with Tenable Nessus, performing risk analysis, and automating remediation using PowerShell—achieving measurable improvements in security posture across Windows and Linux environments.
+- Known for being a collaborative team player who can translate technical security findings into actionable insights for both technical and non-technical audiences.
+- Skilled in managing competing priorities, staying calm under pressure, and approaching cybersecurity challenges with analytical thinking and persistence.
+- Currently expanding expertise in cloud security (AWS & Azure), incident response operations, and advanced threat detection techniques.
+- **CompTIA Security+ certified** and preparing for cloud security certifications.
+
+I'm excited to contribute to teams that value security-first thinking, collaboration, and continuous improvement in protecting critical systems and data.
  
 
 # Projects & Skills Highlight:
