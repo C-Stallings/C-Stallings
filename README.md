@@ -62,6 +62,16 @@ A secure serverless microservice using AWS Lambda, API Gateway, and GitHub Actio
 
   **Skills**: DevSecOps · Compliance Automation · Serverless Framework · Cloud Audit Logging
 
+
+### Patch Management | AWS Systems Manager
+
+- [Enterprise Patch & Asset Compliance Lab – AWS Systems Manager](https://github.com/C-Stallings/Enterprise-Patch-Asset-Compliance-Lab)  
+Centralized patch management and compliance monitoring lab using AWS Systems Manager to manage Windows Server 2019 and Amazon Linux 2 EC2 instances, performing automated patch scans, configuration drift detection, and remediation while generating RMF-compliant audit documentation.
+
+  
+  **Skills**: Patch Management · AWS Systems Manager · Configuration Management · Compliance Monitoring · RMF Documentation · Windows Server 2019 · Amazon Linux 2 · IAM · Fleet Manager · Session Manager · Drift Detection
+  
+
 ### IT Support & Infrastructure Operations
 
 - [Cloud Help Desk Lab: Active Directory + Support Tasks](https://github.com/C-Stallings/Help-Desk-Simulation-Lab)  
