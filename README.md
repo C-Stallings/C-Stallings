@@ -25,8 +25,17 @@ Performed vulnerability assessments using Tenable, applied targeted DISA STIGs r
   **Skills**: Vulnerability Management · DISA STIGs · Tenable Nessus · PowerShell · Windows Security Hardening
 
 ---
+## Microsoft Azure Cloud Services
 
-## Threat Hunting 
+### Incident Response | Security Operations
+
+- [Brute Force Attempt Detection with Microsoft Sentinel](https://github.com/C-Stallings/Incident-Response-Security-Operations)  
+Built and deployed a Microsoft Sentinel detection and response workflow to identify brute force login attempts on Azure VMs, investigate using NIST 800-61 guidelines, and implement network and policy controls to prevent recurrence.
+
+  **Skills**: Microsoft Sentinel · Microsoft Defender for Endpoint (MDE) · Azure Network Security Groups (NSG) · Log Analytics & KQL · Incident Response – NIST 800-61 · Brute Force Detection & Mitigation
+
+
+### Threat Hunting
 
 - [Threat Hunting Project – Device Exposed to the Internet](https://github.com/C-Stallings/Threat-Hunting/tree/main)  
 Device Exposure Investigation – Windows Server 2025: KQL-based threat hunting queries and documented analysis to detect, investigate, and mitigate brute-force attempts against an internet-facing Windows Server, ensuring no unauthorized access occurred.
@@ -38,14 +47,6 @@ Device Exposure Investigation – Windows Server 2025: KQL-based threat hunting 
 
    **Skills** Log Analytics · SIEM · Azure Security · Threat Detection
 
----
-
-## Incident Response | Security Operations
-
-- [Brute Force Attempt Detection with Microsoft Sentinel](https://github.com/C-Stallings/Incident-Response-Security-Operations)  
-Built and deployed a Microsoft Sentinel detection and response workflow to identify brute force login attempts on Azure VMs, investigate using NIST 800-61 guidelines, and implement network and policy controls to prevent recurrence.
-
-  **Skills**: Microsoft Sentinel · Microsoft Defender for Endpoint (MDE) · Azure Network Security Groups (NSG) · Log Analytics & KQL · Incident Response – NIST 800-61 · Brute Force Detection & Mitigation
 
 ---
 
